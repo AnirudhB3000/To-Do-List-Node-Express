@@ -1,0 +1,7 @@
+Steps to run:
+
+1) Ensure requirements are installed
+2) Open App Folder
+3) Run "mongod" in command line
+4) Run "mongo" in command line
+5) Run "node app.js" in the project folder
